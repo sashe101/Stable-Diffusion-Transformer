@@ -8,9 +8,9 @@ Before running the code, you need to install the required dependencies.
 You can install them using pip:
 !pip install diffusers transformers gradio matplotlib
 # Dependencies
-diffusers --> Library for using diffusion models
-transformers --> Hugging Face's transformers library
-gradio -->  Library for creating simple UIs for machine learning models
+diffusers --> Library for using diffusion models ;
+transformers --> Hugging Face's transformers library ;
+gradio -->  Library for creating simple UIs for machine learning models ;
 matplotlib --> Library for creating visualizations in Python
 # Acknowledgments
 *This project uses the Stable Diffusion Transformer model from Hugging Face.
